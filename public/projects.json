@@ -1,17 +1,20 @@
 [
   {
     "id": 3,
-    "name": "E-commerce Watch Store",
-    "description": "The E-commerce Watch Store is an e-commerce platform built using Laravel 11 for the back-end and Vue 3 for the front-end, ensuring a modern, responsive shopping experience.",
+    "name": "ALOCAR",
+    "description": "ALOCAR is a web application that centralizes multiple car rental locations in one platform. It allows users to browse available cars across different locations, compare options, and manage reservations easily. The project simplifies the car rental process by offering a unified, user-friendly interface.",
     "status": "in-progress",
     "demo": "#",
-    "github": "https://github.com/DevZakariaAz/E-Commerce_Watch_Store.git",
-    "image": "/images/e-commerce.png",
+    "github": "https://github.com/alocarT505/theme_vue_js.git",
+    "image": "/images/alocar.png",
     "technologies": [
       "Laravel",
       "Vue.js",
       "TailwindCSS",
-      "MySQL"
+      "MySQL",
+      "AdminLTE",
+      "Bootstrap",
+      "JWT"
     ],
     "role": "Full-stack Developer - Responsible for building the back-end with Laravel, integrating it with Vue.js for dynamic UI, and ensuring proper database management."
   },
